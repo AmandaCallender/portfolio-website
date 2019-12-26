@@ -1614,6 +1614,9 @@ input, select, textarea {
 				}
 
 		}
+		#main #about {
+			text-align: center;
+		}
 
 		@media screen and (max-width: 480px) {
 
